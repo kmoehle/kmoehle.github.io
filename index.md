@@ -12,3 +12,6 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://www.karate-kaltenkirchen.de/images/logos/Karate_Kaltenkirchen_Header.jpg"/>
+
